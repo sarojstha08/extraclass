@@ -1,0 +1,35 @@
+body{
+    background-color: yellowgreen;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+p{
+    color: skyblue;
+    border: 2px solid powderblue;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+h2{
+    text-decoration: underline red;
+    letter-spacing: -2px;
+}
+h3{
+    text-decoration: underline red double;
+}
+h4{
+    text-decoration: underline red double 5px;
+}
+/* For unvisited link */
+a:link{
+    color:rgb(44, 107, 195);
+}
+/* visited link */
+a:visited{
+    color: rgb(35, 158, 33);
+}

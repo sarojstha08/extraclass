@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Noto+Sans+JP:wght@100..900&display=swap');
+body{
+    background-color: rgb(237, 229, 227);
+    color: blue;
+}
+.name{
+    background-color: cornflowerblue;
+    color: blue;
+    border: 30px;
+    border-color: red;
+    border-radius: 10px;
+    border-width: 20px;
+    padding: 50px;
+    margin: 50px;
+   
+}
+.img1{
+    width: 250px;
+    border: 20px;
+    border-radius: 50%;
+    border-color: blue;
+}
+.ppp{
+    width: 250px;
+    border: 20px;
+    border-radius: 50%;
+    border-color: red;
+}
+.saroj{
+    font-family: cursive;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Jacquard12;
+
+}
+.bk{
+    width: 250px;
+    border: 20px;
+    border-radius: 40%;
+    border-color: red;
+    border-left: 10px;
+    border-width: 40px;
+    border-bottom: 30px;
+    border-top: 200px;
+}
+.sarojs{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+    font-family: Jacquard-12;
+}

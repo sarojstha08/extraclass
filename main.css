@@ -5,4 +5,38 @@ box-sizing: border-box;
 }
 body{
     background-color: blue;
+    background-color: brown;
+    background-color: rgb(rgb(0, 76, 255), green, rgb(242, 255, 0));
+    background-color: rgba(red, green, blue, alpha);
 }
+.header2{
+    background-color: #ffffff;
+    background-color: #d801f4;
+    background-color: rgba(0.1, 20, 0.9, 0.8);
+    font-family: "open sans";
+    font face{
+        src: link;
+        
+    }
+
+}
+.header3{
+    background-color: #ffffff;
+    background-color: #d801f4;
+    background-color: rgba(0.1, 20, 0.9, 0.3);
+    .header4{
+        background-color: #ffffff;
+        background-color: #d801f4;
+        background-color: rgba(0.1, 20, 0.9, 0.3);
+
+}
+.name{
+    font-family: cursive, 'Times New Roman', Times, serif;
+}
+#name{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    fornt size: 50px;
+
+}
+
