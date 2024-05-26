@@ -1,0 +1,49 @@
+
+*{
+    background-color: rgb(204, 218, 71);
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.name{
+    border: 1px solid black;
+    float: left;
+    margin: 20px;
+}
+.child{
+    display: inline-block;
+    border-style: groove;
+    border-color: blue;
+    border-width: 3px;
+    width: 20px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin: 15px;
+    border: 1px solid green;
+    background-color: aqua;
+    color: azure;
+    padding: 12px 15px;
+    border-radius: 24px;
+    font-size: 20px;
+}
+
+.name:hover{
+    border: 3px solid green;
+}
+.mainparent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.hello{
+   background-color: white;
+   color: black;
+}
+@media screen and (max-width: 450px){
+    .hello h1{
+        background-color: red;
+    }
+}
